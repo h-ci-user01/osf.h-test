@@ -165,6 +165,6 @@ notifications:
     slack: h-itg-dev:4z5R67svHYtxSBd3o6dsZHrT 
     webhooks: 
       urls: 
-        - http://52.68.213.92:8080/webhook 
+        - http://52.68.213.92:8081/webhook 
       on_failure: never # default: always 
 
