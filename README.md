@@ -1,4 +1,4 @@
-# OSF
+# OSF.IO.H-TEST
 
 The code for [https://osf.io](https://osf.io).
 
