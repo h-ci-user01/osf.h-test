@@ -88,7 +88,7 @@ def main(env):
     PREPRINT_PROVIDERS = {
         'osf': {
             '_id': 'osf',
-            'name': 'FOpen Science Framework',
+            'name': 'Open Science Framework',
             'share_publish_type': 'Preprint',
             'description': 'A scholarly commons to connect the entire research cycle',
             'domain': DOMAIN,
