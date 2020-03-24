@@ -6,7 +6,7 @@ lxml==3.4.1
 pytz==2014.9
 python-dateutil==2.5.0
 html5lib==0.999
-bleach==1.4.1
+bleach==3.1.2
 requests==2.5.3
 urllib3==1.10.4
 requests-oauthlib==0.5.0
