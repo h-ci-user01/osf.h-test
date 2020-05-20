@@ -16,7 +16,7 @@ beautifulsoup4==4.6.0
 celery==4.1.0
 kombu==4.1.0
 vine==1.1.4
-httplib2==0.10.3
+httplib2==0.18.0
 hurry.filesize==0.9
 itsdangerous==0.24
 lxml==3.4.1
